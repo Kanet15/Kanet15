@@ -1,4 +1,5 @@
-
+# Hello World!, I'm Kanet Chusangthong Web Developer 👋:
+🧑‍🎓 I am currently studying at Chumphaesuksa School in the Artificial Intelligence (AI) program. 🤖
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kanxttt_) 
 
